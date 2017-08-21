@@ -1,0 +1,23 @@
+{
+  "name": "tui-media",
+  "authors": [
+    "Chintan <chintan@wohlig.com>"
+  ],
+  "description": "Directives and Services Required for Tui Media Usage in Angular 1.6 and above",
+  "main": "",
+  "keywords": [
+    "Tui",
+    "Media",
+    "Angular",
+    "Wohlig"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
